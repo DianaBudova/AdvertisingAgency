@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Б-121-23-2-ПІ-1-6.props" />
+</Project>

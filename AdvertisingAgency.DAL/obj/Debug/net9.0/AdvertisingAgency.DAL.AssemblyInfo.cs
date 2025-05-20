@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdvertisingAgency.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+106d079505ee73d4879d9f157958cca3bd225022")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdvertisingAgency.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdvertisingAgency.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

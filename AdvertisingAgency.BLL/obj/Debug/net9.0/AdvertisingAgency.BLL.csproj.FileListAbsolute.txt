@@ -1,0 +1,15 @@
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.BLL\bin\Debug\net9.0\AdvertisingAgency.BLL.deps.json
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.BLL\bin\Debug\net9.0\AdvertisingAgency.BLL.dll
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.BLL\bin\Debug\net9.0\AdvertisingAgency.BLL.pdb
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.BLL\bin\Debug\net9.0\AdvertisingAgency.DAL.dll
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.BLL\bin\Debug\net9.0\AdvertisingAgency.DAL.pdb
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.BLL\obj\Debug\net9.0\AdvertisingAgency.BLL.csproj.AssemblyReference.cache
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.BLL\obj\Debug\net9.0\AdvertisingAgency.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.BLL\obj\Debug\net9.0\AdvertisingAgency.BLL.AssemblyInfoInputs.cache
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.BLL\obj\Debug\net9.0\AdvertisingAgency.BLL.AssemblyInfo.cs
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.BLL\obj\Debug\net9.0\AdvertisingAgency.BLL.csproj.CoreCompileInputs.cache
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.BLL\obj\Debug\net9.0\Advertis.6FBA1DC5.Up2Date
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.BLL\obj\Debug\net9.0\AdvertisingAgency.BLL.dll
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.BLL\obj\Debug\net9.0\refint\AdvertisingAgency.BLL.dll
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.BLL\obj\Debug\net9.0\AdvertisingAgency.BLL.pdb
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.BLL\obj\Debug\net9.0\ref\AdvertisingAgency.BLL.dll

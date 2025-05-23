@@ -14,7 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AdvertisingAgency.DAL\AdvertisingAgency.DAL.csproj" />
+    <ProjectReference Include="..\AdvertisingAgency.BLL\AdvertisingAgency.BLL.csproj" />
+    <ProjectReference Include="..\AdvertisingAgency.Infrastructure\AdvertisingAgency.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

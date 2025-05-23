@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdvertisingAgency.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb7d42389e6834344a5fc43bb6f377815d0bd858")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdvertisingAgency.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdvertisingAgency.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

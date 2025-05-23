@@ -92,90 +92,193 @@ D:\NAU\АППЗ\Cursach\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\refint\Б-121-23-2
 D:\NAU\АППЗ\Cursach\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.pdb
 D:\NAU\АППЗ\Cursach\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.genruntimeconfig.cache
 D:\NAU\АППЗ\Cursach\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\ref\Б-121-23-2-ПІ-1-6.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\refint\Б-121-23-2-ПІ-1-6.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.pdb
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\appsettings.Development.json
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\appsettings.json
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.staticwebassets.endpoints.json
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.exe
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.deps.json
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.runtimeconfig.json
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.pdb
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Azure.Core.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Azure.Identity.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Identity.Client.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.OpenApi.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.ClientModel.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Drawing.Common.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Memory.Data.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Runtime.Caching.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Security.Permissions.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Windows.Extensions.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AdvertisingAgency.DAL.dll
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AdvertisingAgency.DAL.pdb
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.csproj.AssemblyReference.cache
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.GeneratedMSBuildEditorConfig.editorconfig
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.AssemblyInfoInputs.cache
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.AssemblyInfo.cs
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.csproj.CoreCompileInputs.cache
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.MvcApplicationPartsAssemblyInfo.cs
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.MvcApplicationPartsAssemblyInfo.cache
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\scopedcss\bundle\Б-121-23-2-ПІ-1-6.styles.css
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets.build.json
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets.development.json
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets\msbuild.Б-121-23-2-ПІ-1-6.Microsoft.AspNetCore.StaticWebAssets.props
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets\msbuild.Б-121-23-2-ПІ-1-6.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets\msbuild.build.Б-121-23-2-ПІ-1-6.props
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Б-121-23-2-ПІ-1-6.props
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Б-121-23-2-ПІ-1-6.props
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets.pack.json
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\_-121-23.1B64CAAD.Up2Date
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.genruntimeconfig.cache
-D:\NAU\АППЗ\AdvertisingAgency\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\ref\Б-121-23-2-ПІ-1-6.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\appsettings.json
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.staticwebassets.endpoints.json
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.exe
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.deps.json
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.runtimeconfig.json
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.pdb
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Autofac.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AdvertisingAgency.BLL.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AdvertisingAgency.DAL.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AdvertisingAgency.Infrastructure.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AdvertisingAgency.BLL.pdb
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AdvertisingAgency.Infrastructure.pdb
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AdvertisingAgency.DAL.pdb
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.AssemblyInfo.cs
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\scopedcss\bundle\Б-121-23-2-ПІ-1-6.styles.css
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets\msbuild.Б-121-23-2-ПІ-1-6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets\msbuild.Б-121-23-2-ПІ-1-6.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets\msbuild.build.Б-121-23-2-ПІ-1-6.props
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Б-121-23-2-ПІ-1-6.props
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Б-121-23-2-ПІ-1-6.props
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\_-121-23.1B64CAAD.Up2Date
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\refint\Б-121-23-2-ПІ-1-6.dll
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.pdb
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.genruntimeconfig.cache
+C:\Users\admin\Desktop\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\ref\Б-121-23-2-ПІ-1-6.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\appsettings.json
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.staticwebassets.endpoints.json
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.exe
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.deps.json
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.runtimeconfig.json
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Б-121-23-2-ПІ-1-6.pdb
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Autofac.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AdvertisingAgency.BLL.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AdvertisingAgency.DAL.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AdvertisingAgency.Infrastructure.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AdvertisingAgency.BLL.pdb
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AdvertisingAgency.Infrastructure.pdb
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\bin\Debug\net9.0\AdvertisingAgency.DAL.pdb
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\scopedcss\bundle\Б-121-23-2-ПІ-1-6.styles.css
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets\msbuild.Б-121-23-2-ПІ-1-6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets\msbuild.Б-121-23-2-ПІ-1-6.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets\msbuild.build.Б-121-23-2-ПІ-1-6.props
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Б-121-23-2-ПІ-1-6.props
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Б-121-23-2-ПІ-1-6.props
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\_-121-23.1B64CAAD.Up2Date
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\refint\Б-121-23-2-ПІ-1-6.dll
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.pdb
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\Б-121-23-2-ПІ-1-6.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Поточні дз\2Course2\ArhitecLabs\Cursach1\Б-121-23-2-ПІ-1-6\obj\Debug\net9.0\ref\Б-121-23-2-ПІ-1-6.dll

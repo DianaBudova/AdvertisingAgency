@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NAU\\АППЗ\\Cursach\\AdvertisingAgency.BLL\\AdvertisingAgency.BLL.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.BLL\\AdvertisingAgency.BLL.csproj": {}
   },
   "projects": {
-    "D:\\NAU\\АППЗ\\Cursach\\AdvertisingAgency.BLL\\AdvertisingAgency.BLL.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.BLL\\AdvertisingAgency.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NAU\\АППЗ\\Cursach\\AdvertisingAgency.BLL\\AdvertisingAgency.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.BLL\\AdvertisingAgency.BLL.csproj",
         "projectName": "AdvertisingAgency.BLL",
-        "projectPath": "D:\\NAU\\АППЗ\\Cursach\\AdvertisingAgency.BLL\\AdvertisingAgency.BLL.csproj",
-        "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-        "outputPath": "D:\\NAU\\АППЗ\\Cursach\\AdvertisingAgency.BLL\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.BLL\\AdvertisingAgency.BLL.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\NAU\\АППЗ\\Cursach\\AdvertisingAgency.DAL\\AdvertisingAgency.DAL.csproj": {
-                "projectPath": "D:\\NAU\\АППЗ\\Cursach\\AdvertisingAgency.DAL\\AdvertisingAgency.DAL.csproj"
+              "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.DAL\\AdvertisingAgency.DAL.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.DAL\\AdvertisingAgency.DAL.csproj"
               }
             }
           }
@@ -76,24 +75,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\NAU\\АППЗ\\Cursach\\AdvertisingAgency.DAL\\AdvertisingAgency.DAL.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.DAL\\AdvertisingAgency.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NAU\\АППЗ\\Cursach\\AdvertisingAgency.DAL\\AdvertisingAgency.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.DAL\\AdvertisingAgency.DAL.csproj",
         "projectName": "AdvertisingAgency.DAL",
-        "projectPath": "D:\\NAU\\АППЗ\\Cursach\\AdvertisingAgency.DAL\\AdvertisingAgency.DAL.csproj",
-        "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-        "outputPath": "D:\\NAU\\АППЗ\\Cursach\\AdvertisingAgency.DAL\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.DAL\\AdvertisingAgency.DAL.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -102,7 +101,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -148,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

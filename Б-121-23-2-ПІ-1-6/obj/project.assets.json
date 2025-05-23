@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net9.0": {
+      "AutoMapper/14.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "8.0.0"
+        },
+        "compile": {
+          "lib/net8.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Azure.Core/1.38.0": {
         "type": "package",
         "dependencies": {
@@ -1098,6 +1114,20 @@
           }
         }
       },
+      "AdvertisingAgency.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "AdvertisingAgency.DAL": "1.0.0",
+          "AutoMapper": "14.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AdvertisingAgency.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AdvertisingAgency.BLL.dll": {}
+        }
+      },
       "AdvertisingAgency.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -1114,6 +1144,21 @@
     }
   },
   "libraries": {
+    "AutoMapper/14.0.0": {
+      "sha512": "OC+1neAPM4oCCqQj3g2GJ2shziNNhOkxmNB9cVS8jtx4JbgmRzLcUOxB9Tsz6cVPHugdkHgCaCrTjjSI0Z5sCQ==",
+      "type": "package",
+      "path": "automapper/14.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.14.0.0.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/net8.0/AutoMapper.dll",
+        "lib/net8.0/AutoMapper.xml"
+      ]
+    },
     "Azure.Core/1.38.0": {
       "sha512": "IuEgCoVA0ef7E4pQtpC3+TkPbzaoQfa77HlfJDmfuaJUCVJmn7fT0izamZiryW5sYUFKizsftIxMkXKbgIcPMQ==",
       "type": "package",
@@ -3200,6 +3245,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "AdvertisingAgency.BLL/1.0.0": {
+      "type": "project",
+      "path": "../AdvertisingAgency.BLL/AdvertisingAgency.BLL.csproj",
+      "msbuildProject": "../AdvertisingAgency.BLL/AdvertisingAgency.BLL.csproj"
+    },
     "AdvertisingAgency.DAL/1.0.0": {
       "type": "project",
       "path": "../AdvertisingAgency.DAL/AdvertisingAgency.DAL.csproj",
@@ -3208,30 +3258,31 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "AdvertisingAgency.DAL >= 1.0.0",
+      "AdvertisingAgency.BLL >= 1.0.0",
+      "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.Infrastructure\\AdvertisingAgency.Infrastructure.csproj",
       "Microsoft.AspNetCore.OpenApi >= 9.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.4",
       "Swashbuckle.AspNetCore >= 8.1.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Diana\\.nuget\\packages\\": {},
+    "C:\\Users\\Asus\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NAU\\АППЗ\\AdvertisingAgency\\Б-121-23-2-ПІ-1-6\\Б-121-23-2-ПІ-1-6.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\Б-121-23-2-ПІ-1-6\\Б-121-23-2-ПІ-1-6.csproj",
       "projectName": "Б-121-23-2-ПІ-1-6",
-      "projectPath": "D:\\NAU\\АППЗ\\AdvertisingAgency\\Б-121-23-2-ПІ-1-6\\Б-121-23-2-ПІ-1-6.csproj",
-      "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-      "outputPath": "D:\\NAU\\АППЗ\\AdvertisingAgency\\Б-121-23-2-ПІ-1-6\\obj\\",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\Б-121-23-2-ПІ-1-6\\Б-121-23-2-ПІ-1-6.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\Б-121-23-2-ПІ-1-6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3240,15 +3291,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\NAU\\АППЗ\\AdvertisingAgency\\AdvertisingAgency.DAL\\AdvertisingAgency.DAL.csproj": {
-              "projectPath": "D:\\NAU\\АППЗ\\AdvertisingAgency\\AdvertisingAgency.DAL\\AdvertisingAgency.DAL.csproj"
+            "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.BLL\\AdvertisingAgency.BLL.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.BLL\\AdvertisingAgency.BLL.csproj"
+            },
+            "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.Infrastructure\\AdvertisingAgency.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.Infrastructure\\AdvertisingAgency.Infrastructure.csproj"
             }
           }
         }
@@ -3301,8 +3354,19 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.Infrastructure\\AdvertisingAgency.Infrastructure.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Asus\\Desktop\\Поточні дз\\2Course2\\ArhitecLabs\\AdvertisingAgency\\AdvertisingAgency.Infrastructure\\AdvertisingAgency.Infrastructure.csproj",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }

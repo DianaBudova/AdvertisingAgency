@@ -1,0 +1,17 @@
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\obj\Debug\net7.0\AdvertisingAgency.Infrastructure.csproj.AssemblyReference.cache
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\obj\Debug\net7.0\AdvertisingAgency.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\obj\Debug\net7.0\AdvertisingAgency.Infrastructure.AssemblyInfoInputs.cache
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\obj\Debug\net7.0\AdvertisingAgency.Infrastructure.AssemblyInfo.cs
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\obj\Debug\net7.0\AdvertisingAgency.Infrastructure.csproj.CoreCompileInputs.cache
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\bin\Debug\net7.0\AdvertisingAgency.Infrastructure.deps.json
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\bin\Debug\net7.0\AdvertisingAgency.Infrastructure.dll
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\bin\Debug\net7.0\AdvertisingAgency.Infrastructure.pdb
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\bin\Debug\net7.0\AdvertisingAgency.BLL.dll
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\bin\Debug\net7.0\AdvertisingAgency.DAL.dll
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\bin\Debug\net7.0\AdvertisingAgency.BLL.pdb
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\bin\Debug\net7.0\AdvertisingAgency.DAL.pdb
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\obj\Debug\net7.0\AdvertisingAgency.Infrastructure.csproj.CopyComplete
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\obj\Debug\net7.0\AdvertisingAgency.Infrastructure.dll
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\obj\Debug\net7.0\refint\AdvertisingAgency.Infrastructure.dll
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\obj\Debug\net7.0\AdvertisingAgency.Infrastructure.pdb
+D:\NAU\АППЗ\Cursach\AdvertisingAgency.Infrastructure\obj\Debug\net7.0\ref\AdvertisingAgency.Infrastructure.dll

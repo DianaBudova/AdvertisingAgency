@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector" Version="6.0.2" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
+    <PackageReference Include="Moq" Version="4.20.72" />
+    <PackageReference Include="xunit" Version="2.9.2" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AdvertisingAgency.BLL\AdvertisingAgency.BLL.csproj" />
+    <ProjectReference Include="..\AdvertisingAgency.DAL\AdvertisingAgency.DAL.csproj" />
+    <ProjectReference Include="..\AdvertisingAgency.Infrastructure\AdvertisingAgency.Infrastructure.csproj" />
+    <ProjectReference Include="..\Б-121-23-2-ПІ-1-6\Б-121-23-2-ПІ-1-6.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Xunit" />
+  </ItemGroup>
+
+</Project>

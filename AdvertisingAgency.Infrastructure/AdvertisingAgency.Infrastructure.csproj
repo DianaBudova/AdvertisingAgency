@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="8.2.1" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AdvertisingAgency.BLL\AdvertisingAgency.BLL.csproj" />
+    <ProjectReference Include="..\AdvertisingAgency.DAL\AdvertisingAgency.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
